@@ -6,6 +6,16 @@ A native macOS desktop calendar widget that uses events from Apple Calendar. Bui
 
 **Version:** 0.4.2 (7) · **License:** [GPL-3.0-only](LICENSE) · **Requires:** macOS 14 or later
 
+## Screenshots
+
+**Upcoming tasks** — when the selected day has no tasks, the widget shows upcoming events.
+
+![EasyCalendar in dark mode showing upcoming tasks](docs/screenshots/upcoming-tasks.png)
+
+**Completed task** — check off an event to mark it complete with gray, strikethrough text.
+
+![EasyCalendar in dark mode showing a completed task](docs/screenshots/completed-task.png)
+
 ## Features
 
 - Select dates directly in the monthly calendar to view that day's events.
